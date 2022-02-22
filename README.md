@@ -2,6 +2,8 @@
 
 A node module for [playing 2048](https://play2048.co/).
 
+Go also to [this repository](https://github.com/bar-amit/2048-react/), where I have built a full react app using a similar module.
+
 * Can be imported using 'require':
 ```
 const TwoThousandFourtyEight = require('./2048.js');
